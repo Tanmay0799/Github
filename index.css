@@ -17,3 +17,8 @@ ul {
 li {
   padding: 10px;
 }
+
+#template {
+  display: flex;
+  justify-content: center;
+}
